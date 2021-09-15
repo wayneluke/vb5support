@@ -1,7 +1,10 @@
 .DS_Store
-public/
+/public/**
+/static/**
+/content/**
 resources/
 node_modules/
 themes/
 tech-doc-hugo
 themes/docsy
+*.md
